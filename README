@@ -1,1 +1,39 @@
-this project involves handling all csrf attacks using from tag in loging html page
+# 🏫 SchoolEcommerce
+> A modern school website portal with admin and user interfaces built using **Spring Boot** and **Thymeleaf**. 
+This project simulates an ecommerce-like school management experience with all essential features for students, parents, and administrators.
+
+---
+
+## 📦 Tech Stack
+
+| Layer        | Technology             |
+|--------------|-------------------------|
+| Backend      | Spring Boot             |
+| Frontend     | Thymeleaf, HTML/CSS     |
+| Templating   | Thymeleaf               |
+| Language     | Java                    |
+| Build Tool   | Maven / Gradle          |
+
+---
+
+## ✨ Key Features
+
+✅ Dual login portals:
+- 👨‍🏫 **Admin Portal** — Manage holidays, announcements, admissions, content.
+- 👨‍🎓 **User Portal** — View school info, holidays, contact, admission form.
+
+✅ Dynamic Pages:
+- 📅 **Holiday List**
+- 🏫 **About the School**
+- 📨 **Admission Form**
+- 📞 **Contact Page**
+- 📋 **Dashboard Views (Admin/User)**
+
+✅ User-Friendly:
+- 🧠 Simple and intuitive design
+- 🎨 Custom styling with Thymeleaf templates
+- 📁 Easily extendable for database, security, or full ecommerce features
+
+---
+
+
